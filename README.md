@@ -258,6 +258,9 @@ automation tools, privacy tools, and browser-adjacent resources.
 
 ## Automation & Testing
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests with run memory and UI-change adaptation.
+  `Open Source` `Web` `Cross-platform` `Automation`
+
 - [Playwright](https://playwright.dev/) - Cross-browser automation library by Microsoft with built-in auto-waiting and network interception.
   `Open Source` `Headless` `Linux/macOS/Windows` `Automation`
 
