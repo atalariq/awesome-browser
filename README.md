@@ -110,6 +110,9 @@ automation tools, privacy tools, and browser-adjacent resources.
 - [Vieb](https://vieb.dev/) - Vim-inspired browser with a minimal interface and extensive keyboard controls.
   `Open Source` `Chromium` `Linux/macOS/Windows` `Keyboard`
 
+- [Yalqen](https://github.com/YSamed/yalqen) - Keyboard-first Chromium browser for macOS with vertical tabs, a command bar, and built-in ad blocking.
+  `Open Source` `Chromium` `macOS` `Keyboard` `Developer`
+
 ### Minimal & Experimental
 
 - [Ladybird](https://ladybird.org/) - Independent browser engine and browser built from scratch, emphasizing web standards and security.
